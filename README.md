@@ -1,5 +1,5 @@
 # Stargate-Another-Legend
-In the name of the Father,
+In the name of the Father,<br>
 And the Son,
 And the Holy Spirit,
 Hallow be thy name.
